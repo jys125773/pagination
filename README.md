@@ -1,7 +1,7 @@
 # pagination
 这是一个原生js的分页插件，不需要任何倚赖，api简介
 <br />
-self.pager = new Pagination({
+var pager = new Pagination({
 > 
   "id":"pagination",//组件wrapper id名
 >   
